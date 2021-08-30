@@ -1,0 +1,11 @@
+{
+  "name": "TDDDvdLibrary",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
